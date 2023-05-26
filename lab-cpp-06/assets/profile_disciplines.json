@@ -1,0 +1,46 @@
+[
+  {
+    "isWeekly": true,
+    "name": "Фізика",
+    "hours": 1,
+    "teacher": {
+      "lastName": "Борисович",
+      "firstName": "Бориc",
+      "email": "boris@gmail.com"
+    },
+    "place": "ХПІ_302"
+  },
+  {
+    "isWeekly": true,
+    "name": "Програмування",
+    "hours": 6,
+    "teacher": {
+      "lastName": "Давидов",
+      "firstName": "Вячеслав",
+      "email": "davidov@gmail.com"
+    },
+    "place": "ХПІ_312"
+  },
+  {
+    "isWeekly": false,
+    "name": "Дискретна математика",
+    "hours": 2,
+    "teacher": {
+      "lastName": "Еленовна",
+      "firstName": "Елена",
+      "email": "elena@gmail.com"
+    },
+    "place": "ХПІ_026"
+  },
+  {
+    "isWeekly": false,
+    "name": "Вища математика",
+    "hours": 8,
+    "teacher": {
+      "lastName": "Бурлаєнко",
+      "firstName": "Вячеслав",
+      "email": "burlaenko@gmail.com"
+    },
+    "place": "ХПІ_021"
+  }
+]

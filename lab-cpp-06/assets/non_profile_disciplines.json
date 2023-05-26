@@ -1,0 +1,46 @@
+[
+  {
+    "isWeekly": true,
+    "name": "Філософия",
+    "hours": 1,
+    "teacher": {
+      "lastName": "Имя",
+      "firstName": "Фамилия",
+      "email": "email@gmail.com"
+    },
+    "place": "ХПІ_302"
+  },
+  {
+    "isWeekly": false,
+    "name": "Фізкультура",
+    "hours": 0,
+    "teacher": {
+      "lastName": "Имя",
+      "firstName": "Фамилия",
+      "email": "email@gmail.com"
+    },
+    "place": "КАРАЗІН_234"
+  },
+  {
+    "isWeekly": true,
+    "name": "Українська мова",
+    "hours": 1,
+    "teacher": {
+      "lastName": "Имя",
+      "firstName": "Фамилия",
+      "email": "email@gmail.com"
+    },
+    "place": "ХПІ_021"
+  },
+  {
+    "isWeekly": true,
+    "name": "Англійська мова",
+    "hours": 1,
+    "teacher": {
+      "lastName": "Имя",
+      "firstName": "Фамилия",
+      "email": "email@gmail.com"
+    },
+    "place": "ХПІ_021"
+  }
+]
